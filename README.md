@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/mah07308/FM-Product-Preview-Card-Component](https://github.com/mah07308/FM-Product-Preview-Card-Component)
+- Live Site URL: [https://mah07308.github.io/FM-Product-Preview-Card-Component/](https://mah07308.github.io/FM-Product-Preview-Card-Component/)
 
 ## My process
 

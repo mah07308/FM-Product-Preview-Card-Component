@@ -112,7 +112,7 @@ footer {
   margin-bottom: 1rem;
 }
 
-@media screen and (min-width: 769px) {
+@media (min-width: 48rem) {
   .product-card {
     flex-direction: row;
     margin: 1rem 0;
@@ -120,22 +120,18 @@ footer {
   }
 
   .image-half {
-    flex: 1 1 0;
     min-height: 100%;
   }
 
   .product-image {
     display: block;
     min-height: 100%;
-    border-radius: 0;
-    border-top-left-radius: 0.5rem;
-    border-bottom-left-radius: 0.5rem;
+    object-fit: cover;
+    border-radius: 0.5rem 0 0 0.5rem;
   }
 
   .text-half {
-    box-sizing: border-box;
     max-width: 50%;
-    flex: 1 1 0;
     margin: 0;
     padding: 2rem;
     min-height: 100%;

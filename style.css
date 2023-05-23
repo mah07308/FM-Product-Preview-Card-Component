@@ -97,6 +97,7 @@ body {
   border: none;
   border-radius: 0.5rem;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .btn-cart-icon {
@@ -117,6 +118,7 @@ footer {
     flex-direction: row;
     margin: 1rem 0;
     min-width: 40rem;
+    box-shadow: 0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.1);
   }
 
   .image-half {
